@@ -5,7 +5,7 @@ SUNMI PRINTER ONLY DEVICE SUNMI.
 ## Library Android native from https://docs.sunmi.com
     
     dependencies{
-      implementation 'com.sunmi:printerlibrary:1.0.8'
+      implementation 'com.sunmi:printerlibrary:1.0.13'
     }
 
 
